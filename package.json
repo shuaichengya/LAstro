@@ -1,0 +1,26 @@
+{
+  "name": "LAstro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "preview": "astro preview",
+    "build": "astro build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaichengya/LAstro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaichengya/LAstro/issues"
+  },
+  "homepage": "https://github.com/shuaichengya/LAstro#readme",
+  "dependencies": {
+    "astro": "^2.0.12"
+  }
+}
