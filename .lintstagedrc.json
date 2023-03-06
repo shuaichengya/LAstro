@@ -1,0 +1,6 @@
+{
+  "**/*.{js,jsx,tsx,astro}": "eslint --ext .js,.jsx,.tsx,.astro",
+  "**/*.{js,jsx,tsx,astro}": [
+    "prettier --write"
+  ]
+}
